@@ -1,1 +1,2 @@
-# gpt3-ask-alex
+# gpt3-jabebot
+ Chatbot app
